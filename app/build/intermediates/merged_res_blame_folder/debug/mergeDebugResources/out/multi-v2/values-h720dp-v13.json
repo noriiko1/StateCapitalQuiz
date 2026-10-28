@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "edu.uga.cs.statecapitalsquiz.app-mergeDebugResources-29:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/zoraya/.gradle/caches/9.8.2/transforms/66e5d3f03c14bb57e3ab5811ee9e8ccb/transformed/appcompat-1.7.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

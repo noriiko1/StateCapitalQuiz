@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/layout_item_past_result.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/layout/item_past_result.xml"
+    },
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/layout_fragment_question.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/layout/fragment_question.xml"
+    },
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/layout_fragment_result.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/layout/fragment_result.xml"
+    },
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/layout_fragment_past_results.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/layout/fragment_past_results.xml"
+    },
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/layout_fragment_quiz.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/layout/fragment_quiz.xml"
+    },
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/layout_fragment_splash.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "edu.uga.cs.statecapitalsquiz.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "edu.uga.cs.statecapitalsquiz.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
